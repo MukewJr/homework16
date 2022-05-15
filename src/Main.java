@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        Circle.radius=12;
+        Circle circle=new Circle(14);
         Circle.getArea();
         Circle.getCircumference();
     }

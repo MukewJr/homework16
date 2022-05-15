@@ -1,5 +1,5 @@
 public class Circle {
-     static int radius;
+    private static int radius;
 
     public Circle(int radius) {
         this.radius = radius;
